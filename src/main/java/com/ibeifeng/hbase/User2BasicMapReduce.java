@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hbase;
+package com.ibeifeng.hbase;
 
 import java.io.IOException;
 

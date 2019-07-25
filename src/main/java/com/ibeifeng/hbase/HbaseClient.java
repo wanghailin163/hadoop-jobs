@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hbase;
+package com.ibeifeng.hbase;
 
 
 import org.apache.hadoop.conf.Configuration;
@@ -176,8 +176,8 @@ public class HbaseClient {
 	        //putData(table);
 	        //deleteData(table);
 	        //scanData(table);
-		   //关闭rangeData方法
-	        //rangeData(table);
+		   //打开rangeData方法
+	        rangeData(table);
 	        addcolumn(table);
 	    }
 }
