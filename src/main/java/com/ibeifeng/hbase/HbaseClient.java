@@ -176,7 +176,8 @@ public class HbaseClient {
 	        //putData(table);
 	        //deleteData(table);
 	        //scanData(table);
-	        rangeData(table);
+		   //关闭rangeData方法
+	        //rangeData(table);
 	        addcolumn(table);
 	    }
 }
