@@ -1,7 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcca19dd-145e-4158-8a8c-a2dfaeb03e21" name="Default Changelist" comment="" />
+    <list default="true" id="bcca19dd-145e-4158-8a8c-a2dfaeb03e21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/hdfs/HdfsApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/WCCombinerMapReduce$WCCombiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/WCCombinerMapReduce$WCCombinerMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/WCCombinerMapReduce$WCCombinerReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/WCCombinerMapReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/WCMapReduce$WCMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/WCMapReduce$WCReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/WCMapReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/WordCount$WordCountMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/WordCount$WordCountReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/join/DatajoinMapreduce$DatajoinMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/join/DatajoinMapreduce$DatajoinReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/join/DatajoinMapreduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/join/DatajoinWritable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/secondarysort/FirstGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/secondarysort/FirstPart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/secondarysort/PairWritable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/secondarysort/SecondarySort$SecondaryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/secondarysort/SecondarySort$SecondaryReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/secondarysort/SecondarySort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/sort/WordSort$WordSortCombiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/sort/WordSort$WordSortMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/sort/WordSort$WordSortReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/sort/WordSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/web/uv/WebUvMapReduce$WebUvMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/web/uv/WebUvMapReduce$WebUvReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hadoop/mapreduce/web/uv/WebUvMapReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hbase/HbaseClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hbase/User2BasicMapReduce$ReadUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hbase/User2BasicMapReduce$WriteBasicReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hbase/User2BasicMapReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hive/jdbc/HiveJdbcClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hive/udf/DateTransUdf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hive/udf/TimeDvalue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hive/udf/TimeDvalue2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hive/udf/TimeGet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/ibeifeng/hive/udf/Udf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/aggregation/AccountJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/aggregation/AccountMapper1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/aggregation/AccountMapper2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/aggregation/AccountPart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/aggregation/AccountReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/avg/AverageScore$AverageMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/avg/AverageScore$AverageReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/avg/AverageScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/empdept/Q1SumDeptSalary$MapClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/empdept/Q1SumDeptSalary$ReduceClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/empdept/Q1SumDeptSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/empdept/Q2DeptNumberAveSalary$MapClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/empdept/Q2DeptNumberAveSalary$ReduceClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/empdept/Q2DeptNumberAveSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/empdept/Q3DeptEarliestEmp$MapClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/empdept/Q3DeptEarliestEmp$ReduceClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/empdept/Q3DeptEarliestEmp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/mapjoin/CustOrderMapOutKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/mapjoin/CustomerBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/mapjoin/JoinMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/mapjoin/JoinReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wanghailin/myself/hadoop/mapreduce/mapjoin/MapJoinJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/core-site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hbase-site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hdfs-site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yarn-site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hadoop-demo-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hadoopjobs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-hadoopjobs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wanghailin/AppTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +124,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghailin/ibeifeng/hbase/HbaseClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-148">
-              <caret line="143" column="30" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
+            <state relative-caret-position="138">
+              <caret line="132" column="12" lean-forward="true" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,8 +168,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wanghailin/ibeifeng/hadoop/hdfs/HdfsApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wanghailin/ibeifeng/hive/jdbc/HiveJdbcClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wanghailin/ibeifeng/hive/udf/Udf.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wanghailin/ibeifeng/hbase/HbaseClient.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wanghailin/ibeifeng/hbase/HbaseClient.java" />
       </list>
     </option>
   </component>
@@ -184,6 +261,39 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wanghailin" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hadoop-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wanghailin" type="462c0819:PsiDirectoryNode" />
+              <item name="myself" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wanghailin" type="462c0819:PsiDirectoryNode" />
+              <item name="myself" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wanghailin" type="462c0819:PsiDirectoryNode" />
+              <item name="myself" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="mapreduce" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -193,7 +303,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564022323436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564024500761" />
     <property name="last_opened_file_path" value="C:/Software/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,15 +347,15 @@
       <workItem from="1562470953814" duration="1949000" />
       <workItem from="1562472933118" duration="4225000" />
       <workItem from="1563980533457" duration="872000" />
-      <workItem from="1564021569208" duration="746000" />
+      <workItem from="1564021569208" duration="2910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8508000" />
+    <option name="totallyTimeSpent" value="10672000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -257,7 +367,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32764506" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32764506" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -265,7 +375,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32879046" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32764506" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.39863715" />
       <window_info anchor="right" id="Bean Validation" order="0" />
@@ -462,8 +572,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wanghailin/ibeifeng/hbase/HbaseClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-148">
-          <caret line="143" column="30" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
+        <state relative-caret-position="138">
+          <caret line="132" column="12" lean-forward="true" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
