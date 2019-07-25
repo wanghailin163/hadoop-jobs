@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hive.jdbc;
+package com.ibeifeng.hive.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

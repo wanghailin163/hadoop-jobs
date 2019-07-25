@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hadoop.mapreduce.sort;
+package com.ibeifeng.hadoop.mapreduce.sort;
 
 import java.io.IOException;
 import org.apache.hadoop.conf.Configuration;

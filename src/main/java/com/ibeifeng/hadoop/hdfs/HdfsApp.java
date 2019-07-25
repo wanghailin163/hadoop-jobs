@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hadoop.hdfs;
+package com.ibeifeng.hadoop.hdfs;
 
 import java.io.File;
 import java.io.FileInputStream;

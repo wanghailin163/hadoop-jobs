@@ -1,4 +1,4 @@
-package com.wanghailin.myself.hadoop.mapreduce.empdept;
+package com.myself.hadoop.mapreduce.empdept;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

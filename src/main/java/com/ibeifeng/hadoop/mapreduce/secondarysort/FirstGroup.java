@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hadoop.mapreduce.secondarysort;
+package com.ibeifeng.hadoop.mapreduce.secondarysort;
 
 import org.apache.hadoop.io.RawComparator;
 import org.apache.hadoop.io.WritableComparator;

@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hadoop.mapreduce;
+package com.ibeifeng.hadoop.mapreduce;
 
 import java.io.IOException;
 import java.util.StringTokenizer;

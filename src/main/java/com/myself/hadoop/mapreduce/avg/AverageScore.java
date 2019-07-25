@@ -1,4 +1,4 @@
-package com.wanghailin.myself.hadoop.mapreduce.avg;
+package com.myself.hadoop.mapreduce.avg;
 
 import java.io.IOException;
 

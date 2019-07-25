@@ -1,4 +1,4 @@
-package com.wanghailin.myself.hadoop.mapreduce.aggregation;
+package com.myself.hadoop.mapreduce.aggregation;
 
 import java.io.IOException;
 import java.util.Random;

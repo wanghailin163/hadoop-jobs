@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hadoop.mapreduce.secondarysort;
+package com.ibeifeng.hadoop.mapreduce.secondarysort;
 
 import java.io.DataInput;
 import java.io.DataOutput;

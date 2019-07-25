@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hadoop.mapreduce.web.uv;
+package com.ibeifeng.hadoop.mapreduce.web.uv;
 
 import java.io.IOException;
 import java.util.HashMap;

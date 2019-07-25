@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hadoop.mapreduce.secondarysort;
+package com.ibeifeng.hadoop.mapreduce.secondarysort;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.mapreduce.Partitioner;

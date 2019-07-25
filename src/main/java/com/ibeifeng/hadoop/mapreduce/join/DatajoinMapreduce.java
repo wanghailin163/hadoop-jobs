@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hadoop.mapreduce.join;
+package com.ibeifeng.hadoop.mapreduce.join;
 
 import java.io.IOException;
 import java.util.ArrayList;

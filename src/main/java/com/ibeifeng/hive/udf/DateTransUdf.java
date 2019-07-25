@@ -1,4 +1,4 @@
-package com.wanghailin.ibeifeng.hive.udf;
+package com.ibeifeng.hive.udf;
 
 import java.text.SimpleDateFormat;
 import java.util.regex.Pattern;

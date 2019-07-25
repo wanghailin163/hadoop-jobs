@@ -1,4 +1,4 @@
-package com.wanghailin.myself.hadoop.mapreduce.mapjoin;
+package com.myself.hadoop.mapreduce.mapjoin;
 
 import java.io.BufferedReader;
 import java.io.IOException;
