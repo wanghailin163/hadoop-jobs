@@ -172,10 +172,10 @@ public class HbaseClient {
 	    public static void main(String[] args) throws Exception{
 
 	        HTable table = getTable("nstest:tb1");
-	        //getData(table);
-	        //putData(table);
-	        //deleteData(table);
-	        //scanData(table);
+	        getData(table);
+	        putData(table);
+	        deleteData(table);
+	        scanData(table);
 		   //打开rangeData方法
 	        rangeData(table);
 	        addcolumn(table);
